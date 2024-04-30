@@ -9,6 +9,7 @@ accountCity = "jaipur"
 accountEmail = "rohan@gmail.cpm"
 accountPassword = "98765"
 accountCity = "Dhanabd"
+console.log(a)
 
 console.table([accountCity , accountEmail , accountPassword])
 
