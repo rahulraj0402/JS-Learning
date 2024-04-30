@@ -19,5 +19,5 @@ console.log(accountId )
 
 /*
     const : it is constant 
-    let : 
+    let : it can be changed after assinging the values 
 */
